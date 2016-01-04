@@ -10,10 +10,14 @@ var Catalog = React.createClass({
 
   render : function() {
     return (
-      <p>hello</p>
+      <form className="store-selector">
+        <h2>Please Enter A Store</h2>
+        <input type="text" ref="storeId" required />
+        <input type="Submit" />
+      </form>
     )
   }
-});
 
+});
 
 ReactDOM.render(<Catalog/>, document.querySelector('#main'));
