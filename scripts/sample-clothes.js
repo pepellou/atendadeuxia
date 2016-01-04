@@ -42,7 +42,7 @@ module.exports = {
   
   cloth6 : {
     name : 'Atlantic Salmon',
-    image : 'http://i.istockimg.com/file_thumbview_approve/56241842/5/stock-photo-56241842-salmon-cloth.jpg',
+    image : 'http://i.istockimg.com/file_thumbview_approve/56241842/5/stock-photo-56241842-salmon-fish.jpg',
     desc : 'This flaky, oily salmon is truly the king of the sea. Bake it, grill it, broil it...as good as it gets!',
     price : 1453,
     status : 'available'
